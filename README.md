@@ -30,6 +30,7 @@ Background removal of an image using OpenCV and Deep Learning.
 <h2> Process for person.py :- </h2>
 <p> 1) Loaded the pre-trained model. </p>
 <p> 2) Resized the image to 224x224 as the model was taking input in the same resolution as seen from model.json file. </p>
+<img src="json.png">
 <p> 3) Removed the transparency channel before getting predictions and resize the prediction to its original height and width. </p>
 <p> 4) Pixel values above the threshold factor were converted back to 255 and below threshold were converted back to 0 to exclude out of          range pixels. </p>
 <p> 5) Added back the transparency channel and converted the array back to image. </p>
