@@ -18,11 +18,14 @@ Background removal of an image using OpenCV and Deep Learning.
 <p> pre-trained models can be downloaded at:- </p>
 <p> https://drive.google.com/open?id=1zk4j3bT1F6TZQiDsMKmEi7xB2Q6fSuHA </p>
 <p> https://drive.google.com/open?id=1B-3dTJzlzBJ9Pz0q5QY7AP3T5zGbhuQZ </p>
+<h3> *both models gave different results depending on the image* </h3>
 
 <h2> Background of images not containing a person can be removed by running non-person.py </h2>
 <p> python non-person.py </p>
 <p> specify path of file when it outputs "Enter path of file: " </p>
 <p> uses OpenCV </p>
+
+<h3> *3-input.jpg gave better result when deep learning was used with 2nd model than when 1st model or OpenCV was used* </h3>
 
 <h2> Process for person.py :- </h2>
 <p> 1) Loaded the pre-trained model. </p>
