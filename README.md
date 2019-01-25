@@ -15,7 +15,9 @@ Background removal of an image using OpenCV and Deep Learning.
 <p> uses 100 layer Tiramisu neural network which was based on the DensNet. </p>
 <p> the pre-trained model is not so accurate and works best when a single person is present in the picture. </p>
 <p> and as it is 100-layer Tiramisu model, re-training it would take days on my system. </p>
-<p> pre-trained model can be downloaded at -> https://drive.google.com/open?id=1zk4j3bT1F6TZQiDsMKmEi7xB2Q6fSuHA </p>
+<p> pre-trained model can be downloaded at:- </p>
+<p> https://drive.google.com/open?id=1zk4j3bT1F6TZQiDsMKmEi7xB2Q6fSuHA </p>
+<p> https://drive.google.com/open?id=1B-3dTJzlzBJ9Pz0q5QY7AP3T5zGbhuQZ </p>
 
 <h2> Background of images not containing a person can be removed by running non-person.py </h2>
 <p> python non-person.py </p>
