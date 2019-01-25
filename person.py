@@ -6,6 +6,7 @@ import tensorflow as tf
 import cv2
 
 # Load the pre-trained model
+# provide main_model.hdf5 / main_model_2.hdf5 for the name of model
 model = load_model('main_model.hdf5', compile=False)
 
 graph = tf.get_default_graph()
