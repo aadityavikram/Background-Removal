@@ -11,7 +11,7 @@ Background removal of an image using OpenCV and Deep Learning.
 <h2> Background of images containing a person can be removed by running person.py </h2>
 <p> python person.py </p>
 <p> specify path of file when it outputs "Enter path of file: " </p>
-<p> runs on Keras 2.0.9 </p>
+<h3> runs on Keras 2.0.9 </h3>
 <p> uses 100 layer Tiramisu neural network which was based on the DensNet. </p>
 <p> the pre-trained model is not so accurate and works best when a single person is present in the picture. </p>
 <p> and as it is 100-layer Tiramisu model, re-training it would take days on my system. </p>
