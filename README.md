@@ -32,3 +32,5 @@ Background removal of an image using OpenCV and Deep Learning.
 <h2> Links referenced :- </h2>
 <p> https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b3157 </p>
 <p> https://www.youtube.com/watch?v=8-3vl71TjDs </p>
+<p> https://docs.opencv.org/3.4/db/d5c/tutorial_py_bg_subtraction.html </p>
+<p> http://benjamintan.io/blog/2018/05/24/making-transparent-backgrounds-with-numpy-and-opencv-in-python/ </p>
