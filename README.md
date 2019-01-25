@@ -25,7 +25,7 @@ Background removal of an image using OpenCV and Deep Learning.
 <p> specify path of file when it outputs "Enter path of file: " </p>
 <p> uses OpenCV </p>
 
-<h3> *3-input.jpg gave better result when deep learning was used with 2nd model than when 1st model or OpenCV was used* </h3>
+<h3> *3-input.jpg gave better result when deep learning was used with 2nd model than when 1st model or OpenCV were used* </h3>
 
 <h2> Process for person.py :- </h2>
 <p> 1) Loaded the pre-trained model. </p>
