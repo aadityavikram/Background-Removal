@@ -47,7 +47,7 @@ Background removal of an image using OpenCV and Deep Learning.
 <h2> Contrast and brightness can be increased for better background removal using sunglasses_removal.py file</h2>
 <p> python sunglasses_removal.py </p>
 <p> Put the dataset folder containing the training images in the same directory as this python file. </p>
-<p> The link to the dataset -> https://drive.google.com/open?id=1BljfSK83fyMammaZb5JOPuosMZ7u4VOM </p>
+<p> The link to the dataset -> https://drive.google.com/open?id=1LOT1u9zUNwPZXmg1DnraH3FcEgfk53Xu </p>
 
 <h2> Links referenced :- </h2>
 <p> https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b3157 </p>
