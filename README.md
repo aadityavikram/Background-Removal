@@ -44,8 +44,12 @@ Background removal of an image using OpenCV and Deep Learning.
 <p> 5) Added transparency channel to the image to make background transparent. </p>
 <p> 6) Saved the image in png format. </p>
 
+<h2> Contrast and brightness can be increased for better background removal using sunglasses_removal.py file</h2>
+<p> python sunglasses_removal.py </p>
+
 <h2> Links referenced :- </h2>
 <p> https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b3157 </p>
 <p> https://www.youtube.com/watch?v=8-3vl71TjDs </p>
 <p> https://docs.opencv.org/3.4/db/d5c/tutorial_py_bg_subtraction.html </p>
 <p> http://benjamintan.io/blog/2018/05/24/making-transparent-backgrounds-with-numpy-and-opencv-in-python/ </p>
+<p> https://docs.opencv.org/3.4/d3/dc1/tutorial_basic_linear_transform.html </p>
