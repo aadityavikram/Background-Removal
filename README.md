@@ -48,6 +48,7 @@ Background removal of an image using OpenCV and Deep Learning.
 <p> python sunglasses_removal.py </p>
 <p> Put the dataset folder containing the training images in the same directory as this python file. </p>
 <p> The link to the dataset -> https://drive.google.com/open?id=1LOT1u9zUNwPZXmg1DnraH3FcEgfk53Xu </p>
+<p> Final images will be saved in the same format as the dataset folder in a new <b>trained</b> directory</p>
 
 <h2> Links referenced :- </h2>
 <p> https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b3157 </p>
